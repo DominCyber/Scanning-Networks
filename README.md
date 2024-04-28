@@ -32,9 +32,9 @@ The EC Council Certified Ethical Hacker's Certification labs provide practical c
 
 ### Steps
 <img src="https://i.imgur.com/8nUJpJt.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 1: </i></p>
+<p><i>Ref 1: Example of a scan performing a ARP ping scan and disabling on port scans</i></p>
 <img src="https://i.imgur.com/fH5VAwt.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 2: x</i></p>
+<p><i>Ref 2: Example of a scan performing a ARP ping scan and disabling on port scans</i></p>
 <img src="https://i.imgur.com/WWWvy5M.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 3: x</i></p>
 <img src="https://i.imgur.com/HarVGtC.jpg" style="width: 65%;" alt="1">
