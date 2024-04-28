@@ -32,13 +32,13 @@ The EC Council Certified Ethical Hacker's Certification labs provide practical c
 
 ### Steps
 <img src="https://i.imgur.com/WWWvy5M.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 1: Example of a scan performing a ARP ping scan and disabling on port scans</i></p>
+<p><i>Ref 1: Examples of ARP and UDP ping scans while disabling port scans</i></p>
 <img src="https://i.imgur.com/fH5VAwt.jpg " style="width: 65%;" alt="1">
-<p><i>Ref 2: Example of a scan performing a ARP ping scan and disabling on port scans</i></p>
+<p><i>Ref 2: Example of an ICMP ping scan while disabling port scans</i></p>
 <img src="https://i.imgur.com/HarVGtC.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 3: x</i></p>
+<p><i>Ref 3: Example of ICMP timestamp, ICMP address mask, and TCP SYN ping scans while disabling port scans</i></p>
 <img src="https://i.imgur.com/8nUJpJt.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 4: x</i></p>
+<p><i>Ref 4: Example of TCP ACK and IP protocol ping scans while disabling port scans</i></p>
 <img src="" style="width: 100%;" alt="1">
 <p><i>Ref x: x</i></p>
 <img src="" style="width: 100%;" alt="1">
