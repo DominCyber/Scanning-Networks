@@ -13,6 +13,7 @@ The EC Council Certified Ethical Hacker's Certification labs provide practical c
 <p>--UDP ping scan</p> 
 <p>--ICMP ping scan</p> 
 <p>--TCP ping scan</p> 
+<p>--IP ping scan</p> 
 <p>--IDS/Firewall evasion techniques for scanning</p> 
 <p>-Zenmap commands and switches for scanning</p> 
 <p>-WireShark packet artifacts</p> 
