@@ -1,5 +1,5 @@
 # Scanning Networks
-######## DISCLAIMER: I DO NOT CONDONE THE USE OF ANY METHODLOGY OR TECHNIQUE HERE, THIS IS FOR EDUCATIONAL PURPOSES ONLY AND TO DOCUMENT MY PROGRESS. REMEMBER TO CONDUCT OFFICIAL ETHICAL HACKING AND PENTRATION TESTING WITH WRITTEN CONSENT OF ALL PARTY MEMBERS.
+##### DISCLAIMER: I DO NOT CONDONE THE USE OF ANY METHODLOGY OR TECHNIQUE HERE, THIS IS FOR EDUCATIONAL PURPOSES ONLY AND TO DOCUMENT MY PROGRESS. REMEMBER TO CONDUCT OFFICIAL ETHICAL HACKING AND PENTRATION TESTING WITH WRITTEN CONSENT OF ALL PARTY MEMBERS.
 ## Objective
 The EC Council Certified Ethical Hacker's Certification labs provide practical cybersecurity skills. This guided project utilizes an attack and victim virtual machine environments to simulate various network scanning in real-time. Cybersecurity professional will become familiar with the methodologies and techinques of ethical hacking on live hosts.
 
