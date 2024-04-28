@@ -30,5 +30,5 @@ The EC Council Certified Ethical Hacker's Certification labs provide practical c
 <p>-Metasploit</p>
 
 ### Steps
-<!<img src="x" style="width: 100%;" alt="1"> >
-<! <p><i>Ref x: x</i></p> >
+<img src="x" style="width: 100%;" alt="1">
+<p><i>Ref x: x</i></p>
