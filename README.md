@@ -8,28 +8,30 @@ The EC Council Certified Ethical Hacker's Certification labs provide practical c
 <p>--Open ports on live hosts</p> 
 <p>--OS fingerprinting on live hosts</p> 
 <p>--services running on live hosts</p> 
-<p>-NMAP commands and switches for scanning</p> 
+<p>-NetScanTools Pro GUI port and ping scans</p> 
+<p>-Nmap CLI commands and switches for scanning</p> 
 <p>--ARP ping scan</p> 
 <p>--UDP ping scan</p> 
 <p>--ICMP ping scan</p> 
 <p>--TCP ping scan</p> 
 <p>--IP ping scan</p> 
 <p>--IDS/Firewall evasion techniques for scanning</p> 
-<p>-Zenmap commands and switches for scanning</p> 
-<p>-WireShark packet artifacts</p> 
-<p>-Hping3 commands and switchesfor scanning</p> 
+<p>-Zenmap GUI commands and switches for scanning</p> 
+<p>-WireShark GUI packet artifacts</p> 
+<p>-Hping3 CLI commands and switchesfor scanning</p> 
 <p>--Custom packets to scan beyond IDS/Firewalls</p> 
-<p>-Metasploit commands and switches for scanning</p> 
+<p>-Metasploit CLI commands and switches for scanning</p> 
 
 ### Tools Used
 -Laptop
 <p>-Windows 11 hypervisor</p>
 <p>-Parrot Security (Linux) hypervisor</p>
-<p>-Nmap</p>
-<p>-Zenmap</p>
-<p>-WireShark</p>
-<p>-Hping3</p>
-<p>-Metasploit</p>
+<p>-NetScanTools Pro GUI</p>
+<p>-Nmap CLI</p>
+<p>-Zenmap GUI</p>
+<p>-WireShark GUI</p>
+<p>-Hping3 CLI</p>
+<p>-Metasploit CLI</p>
 
 ### Steps
 <img src="https://i.imgur.com/WWWvy5M.jpg" style="width: 65%;" alt="1">
