@@ -47,7 +47,7 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 5: NetScanTools Pro GUI IP range ping scanner results host discoveries</i></p>
 <img src="https://i.imgur.com/moEPRmE.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
-<img src="https://i.imgur.com/yIsOmC2.jpg" style="width: 85%;" alt="1">
+<img src="https://i.imgur.com/yIsOmC2.jpg" style="width: 95%;" alt="1">
 <p><i>Ref 7: TCP port scan</i></p>
 <img src="https://i.imgur.com/MYSPD6b.jpg" style="width: 45%;" alt="1">
 <p><i>Ref 8: Zenmap Ports/Host table selected, emphasis on services on each port</i></p>
