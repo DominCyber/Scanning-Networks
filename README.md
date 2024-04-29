@@ -49,12 +49,12 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
 
 
-<img src="https://i.imgur.com/iCf8id3.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 7: Xmas attack results in a RST flag return (Not Shown:1000 closed TCP ports (reset)), indicating target ports are closed </i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
+<img src="https://i.imgur.com/iCf8id3.jpg" style="width: 65%;" alt="1"><img src="https://i.imgur.com/La3QQMM.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 7:Target Windows 11 machine firewall is set. Xmas attack against a target results in a RST flag return (Not Shown:1000 closed TCP ports (reset)), which means that the firewall is likely set to respond with RST flags</i></p>
+<img src="https://i.imgur.com/l5IIZ8R.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 8: Maimon attack FIN/ACK probe against a target results in lts in a RST flag return (Not Shown:1000 closed TCP ports (reset), which means that the firewall is likely set to respond with RST flags</i>></p>
+<img src="https://i.imgur.com/o2Q2B8g.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 9: ACK flag probe </i></p>
 <img src=" " style="width: 65%;" alt="1">
 <p><i>Ref : </i></p>
 <img src=" " style="width: 65%;" alt="1">
