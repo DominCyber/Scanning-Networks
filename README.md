@@ -47,3 +47,29 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 5: NetScanTools Pro GUI IP range ping scanner results host discoveries</i></p>
 <img src="https://i.imgur.com/moEPRmE.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
+
+
+<img src="https://i.imgur.com/iCf8id3.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 7: Xmas attack results in a RST flag return (Not Shown:1000 closed TCP ports (reset)), indicating target ports are closed </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
+<img src=" " style="width: 65%;" alt="1">
+<p><i>Ref : </i></p>
