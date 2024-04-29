@@ -44,6 +44,6 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <img src="https://i.imgur.com/8nUJpJt.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 4: Example of TCP ACK and IP protocol ping scans while disabling port scans</i></p>
 <img src="https://i.imgur.com/NwGGXBH.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 5: NetScanTools Pro GUI ping scanner results</i></p>
+<p><i>Ref 5: NetScanTools Pro GUI IP range ping scanner results host discoveries</i></p>
 <img src="https://i.imgur.com/moEPRmE.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 6: NetScanTools Pro GUI port scanner results</i></p>
+<p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
