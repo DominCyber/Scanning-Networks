@@ -47,25 +47,25 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 5: NetScanTools Pro GUI IP range ping scanner results host discoveries</i></p>
 <img src="https://i.imgur.com/moEPRmE.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
-<img src="https://i.imgur.com/yIsOmC2.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/yIsOmC2.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 7: TCP port scan</i></p>
-<img src="https://i.imgur.com/MYSPD6b.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/MYSPD6b.jpg" style="width: 45%;" alt="1">
 <p><i>Ref 8: Zenmap Ports/Host table selected, emphasis on services on each port</i></p>
 <img src="https://i.imgur.com/NDn7yJR.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 9: Zenmap Topology selected</i></p>
 <img src="https://i.imgur.com/iw6yqON.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 10: Stealth/half open scan retrieves information before full TCP handshake is established, breaking it beforehand</i></p>
-<img src="https://i.imgur.com/iCf8id3.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/iCf8id3.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 11: Xmas attack against a target results in a RST flag return (Not Shown:1000 closed TCP ports (reset))</i</p>
-<img src="https://i.imgur.com/l5IIZ8R.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/l5IIZ8R.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 12: Maimon attack FIN/ACK probe against a target results in lts in a RST flag return (Not Shown:1000 closed TCP ports (reset))</i>></p>
-<img src="https://i.imgur.com/o2Q2B8g.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/o2Q2B8g.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 13: ACK flag probe return RST flags, which would mean target ports are unfiltered (Not Shown:1000 unfiltered TCP ports(reset))</i></p>
-<img src="https://i.imgur.com/WPVn5nX.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/WPVn5nX.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 14: UDP ports scan on a target, resulting in most UDP ports either filtered or closed, and five open showing their services on those ports </i></p>
-<img src="https://i.imgur.com/w8MGZdY.jpg" style="width: 45%;" alt="1">
+<img src="https://i.imgur.com/w8MGZdY.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 15: Null scan with aggressive switches and timing templates selected against a server, resulting in valuable artifacts</i></p>
-<img src="https://i.imgur.com/GFMPm4M.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/GFMPm4M.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 17: Version scan example</i></p>
 <img src="https://i.imgur.com/RZX8WPg.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 18: Zenmap host details from an aggressive scan and IP with a wild card displaying host artifact</i></p>
