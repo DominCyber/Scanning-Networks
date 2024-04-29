@@ -48,21 +48,22 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <img src="https://i.imgur.com/moEPRmE.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
 
-
+<img src="https://i.imgur.com/yIsOmC2.jpg" style="width: 65%;" alt="1">
+<p><i>Ref : TCP port scan</i></
 <img src="https://i.imgur.com/iCf8id3.jpg" style="width: 65%;" alt="1">
-<p><i>Ref 7:Xmas attack against a target results in a RST flag return (Not Shown:1000 closed TCP ports (reset))</i></p>
+<p><i>Ref 7: Xmas attack against a target results in a RST flag return (Not Shown:1000 closed TCP ports (reset))</i></p>
 <img src="https://i.imgur.com/l5IIZ8R.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 8: Maimon attack FIN/ACK probe against a target results in lts in a RST flag return (Not Shown:1000 closed TCP ports (reset))</i>></p>
 <img src="https://i.imgur.com/o2Q2B8g.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 9: ACK flag probe return RST flags, which would mean target ports are unfiltered (Not Shown:1000 unfiltered TCP ports(reset))</i></p>
 <img src="https://i.imgur.com/WPVn5nX.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 10: UDP ports scan on a target, resulting in most UDP ports either filtered or closed, and five open showing their services on those ports </i></p>
-<img src="https://i.imgur.com/w8MGZdY.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/w8MGZdY.jpg" style="width: 45%;" alt="1">
 <p><i>Ref 11: Null scan with aggressive switches and timing templates selected against a server, resulting in valuable artifacts</i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
+<img src="https://i.imgur.com/GFMPm4M.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 12: Version scan example</i></p>
+<img src="https://i.imgur.com/RZX8WPg.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 13: Zenmap host details from an aggressive scan and IP with a wild card displaying host artifact</i></p>
 <img src=" " style="width: 65%;" alt="1">
 <p><i>Ref : </i></p>
 <img src=" " style="width: 65%;" alt="1">
