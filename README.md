@@ -49,7 +49,7 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 6: NetScanTools Pro GUI IP range port scanner results open port discoveries</i></p>
 
 <img src="https://i.imgur.com/yIsOmC2.jpg" style="width: 65%;" alt="1">
-<p><i>Ref : TCP port scan</i></
+<p><i>Ref : TCP port scan</i></p>
 <img src="https://i.imgur.com/iCf8id3.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 7: Xmas attack against a target results in a RST flag return (Not Shown:1000 closed TCP ports (reset))</i></p>
 <img src="https://i.imgur.com/l5IIZ8R.jpg" style="width: 65%;" alt="1">
