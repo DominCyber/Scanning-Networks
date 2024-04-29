@@ -65,7 +65,7 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 14: UDP ports scan on a target, resulting in most UDP ports either filtered or closed, and five open showing their services on those ports </i></p>
 <img src="https://i.imgur.com/w8MGZdY.jpg" style="width: 85%;" alt="1">
 <p><i>Ref 15: Null scan with aggressive switches and timing templates selected against a server, resulting in valuable artifacts</i></p>
-<img src="https://i.imgur.com/GFMPm4M.jpg" style="width: 65%;" alt="1">
+<img src="https://i.imgur.com/GFMPm4M.jpg" style="width: 100%;" alt="1">
 <p><i>Ref 17: Version scan example</i></p>
 <img src="https://i.imgur.com/RZX8WPg.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 18: Zenmap host details from an aggressive scan and IP with a wild card displaying host artifact</i></p>
