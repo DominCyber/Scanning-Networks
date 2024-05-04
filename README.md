@@ -69,9 +69,5 @@ The EC Council Certified Ethical Hackers Certification labs provide practical cy
 <p><i>Ref 16: Version scan example</i></p>
 <img src="https://i.imgur.com/RZX8WPg.jpg" style="width: 65%;" alt="1">
 <p><i>Ref 17: Zenmap host details from an aggressive scan and IP with a wild card displaying host artifact</i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
-<img src=" " style="width: 65%;" alt="1">
-<p><i>Ref : </i></p>
+<img src="https://i.imgur.com/VJYPEcV.jpg" style="width: 65%;" alt="1">
+<p><i>Ref 18: Hping3 aggressive scan on host, through port 80, sending 5 packets</i></p>
